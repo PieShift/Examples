@@ -1,1 +1,1 @@
-# Examples of test cases, checklists, bug reports
+# Примеры чек-листа, тест-кейса, баг-репорта
